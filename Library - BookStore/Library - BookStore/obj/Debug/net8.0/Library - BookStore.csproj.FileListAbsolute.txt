@@ -1,0 +1,60 @@
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\appsettings.Development.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\appsettings.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.staticwebassets.runtime.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.exe
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.deps.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.runtimeconfig.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.dll
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.pdb
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.AssemblyInfoInputs.cache
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.AssemblyInfo.cs
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.csproj.CoreCompileInputs.cache
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.MvcApplicationPartsAssemblyInfo.cache
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.RazorAssemblyInfo.cache
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.RazorAssemblyInfo.cs
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets.build.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets.development.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.Library - BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Library - BookStore.props
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library - BookStore.props
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library - BookStore.props
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets.pack.json
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\scopedcss\bundle\Library - BookStore.styles.css
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\scopedcss\projectbundle\Library - BookStore.bundle.scp.css
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.dll
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\refint\Library - BookStore.dll
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.pdb
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.genruntimeconfig.cache
+F:\HTML, CSS\LyThuyetWeb\Buoi5\Library - BookStore\Library - BookStore\obj\Debug\net8.0\ref\Library - BookStore.dll
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\appsettings.Development.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\appsettings.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.staticwebassets.runtime.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.exe
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.deps.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.runtimeconfig.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.dll
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\bin\Debug\net8.0\Library - BookStore.pdb
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.AssemblyInfoInputs.cache
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.AssemblyInfo.cs
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.csproj.CoreCompileInputs.cache
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.RazorAssemblyInfo.cache
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.RazorAssemblyInfo.cs
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.Library - BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Library - BookStore.props
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library - BookStore.props
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library - BookStore.props
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\scopedcss\bundle\Library - BookStore.styles.css
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\scopedcss\projectbundle\Library - BookStore.bundle.scp.css
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.dll
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\refint\Library - BookStore.dll
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.pdb
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\Library - BookStore.genruntimeconfig.cache
+D:\Đồ Án Lập Trình Web - Library Book\Library - BookStore\Library - BookStore\obj\Debug\net8.0\ref\Library - BookStore.dll
